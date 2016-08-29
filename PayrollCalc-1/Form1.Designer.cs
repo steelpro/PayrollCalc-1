@@ -72,7 +72,7 @@
             // 
             // btnCalc
             // 
-            this.btnCalc.Location = new System.Drawing.Point(28, 109);
+            this.btnCalc.Location = new System.Drawing.Point(28, 127);
             this.btnCalc.Name = "btnCalc";
             this.btnCalc.Size = new System.Drawing.Size(75, 36);
             this.btnCalc.TabIndex = 4;
@@ -82,7 +82,7 @@
             // 
             // btnClear
             // 
-            this.btnClear.Location = new System.Drawing.Point(109, 109);
+            this.btnClear.Location = new System.Drawing.Point(109, 127);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(75, 36);
             this.btnClear.TabIndex = 5;
@@ -92,7 +92,7 @@
             // 
             // btnExit
             // 
-            this.btnExit.Location = new System.Drawing.Point(190, 109);
+            this.btnExit.Location = new System.Drawing.Point(190, 127);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(75, 36);
             this.btnExit.TabIndex = 5;
